@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-
 require_relative '../lib/my_enumerables'
 
 RSpec.describe Array do
